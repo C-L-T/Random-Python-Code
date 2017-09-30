@@ -63,5 +63,6 @@ time.sleep(1)
 print("Simply enter the number you would like the program to count to and we will count every single number until we "
       "reach the one you requested!")
 
+# Allows for repeating of the program
 while go == 1:
     Counter()
